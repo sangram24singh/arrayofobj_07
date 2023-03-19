@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.head{
+    background-image: linear-gradient(lightgreen, darkgreen);
+    font-size: 50px;
+    text-align: center;
+    border: 8px solid black;
+    text-decoration:underline;
+   
+}
+.main{
+    border: 8px solid white;
+    background-color: darkorange;
+}
+.box{
+    background-image: linear-gradient(cyan, darkblue,);
+}
